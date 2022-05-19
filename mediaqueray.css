@@ -1,0 +1,19 @@
+@media screen and (max-width:990px) {
+    .navbar .container {
+        width: 100% !important;
+    }
+
+    .morgan {
+        font-size: 3rem !important;
+    }
+
+    .navbar ul {
+        background-color: white;
+        height: 100vh;
+    }
+
+    .navbar ul .nav-item a {
+        color: gray !important;
+    }
+
+}
